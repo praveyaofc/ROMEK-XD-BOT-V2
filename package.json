@@ -1,6 +1,6 @@
 {
-    "name": "romekbot",
-    "version": "2.0.0",
+    "name": "ROMEK-XD-BOT-V2",
+    "version": "2.0.1",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
     "type": "module",
